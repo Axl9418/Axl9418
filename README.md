@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm [Axl] 👋
 
-<!--
-**Axl9418/Axl9418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software and game developer. I love creating engaging experiences through interactive applications and games. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 How to reach me: https://axlmonreal.com/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Unity
+- C#
+- PHP
+- MySQL
+- Git
+
+## Portfolio
+
+Check out my portfolio to see some of my projects: [Portfolio](https://axlmonreal.com/#projects)
+
+## Website
+
+Visit my website to learn more about me: [Website](https://axlmonreal.com/)
+
+## LinkedIn
+
+Let's connect on LinkedIn: [LinkedIn](https://linkedin.com/in/axl-monreal/)
+
+## Contact Me
+
+Feel free to reach out to me via email: [Email](mailto:axlmonreal@gmail.com)
+

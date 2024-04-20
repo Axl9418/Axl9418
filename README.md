@@ -1,4 +1,4 @@
-# Hi there, I'm [Axl] 👋
+# Hi there, I'm Axl 👋
 
 ## About Me
 
